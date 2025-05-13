@@ -4,4 +4,3 @@ streamlit
 plotly
 pydeck
 python-dotenv
-supabase
