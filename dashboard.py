@@ -84,7 +84,7 @@ if not alerts.empty:
     )
 else:
     st.success("✅ All areas within normal ranges")
-st.markdown('#')
+# st.markdown('#')
 
 # 1. Map Visualization
 # Convert timestamp
